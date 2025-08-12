@@ -5,7 +5,7 @@ using namespace std;
 class Person
 {
 protected:
-	string name; int id; int password;
+	string name; int id; string password;
 public:
 	//setters
 	void set_name(string name)
@@ -31,7 +31,7 @@ public:
 	{
 		return this->id;
 	}
-	int get_password()
+	string get_password()
 	{
 		return this->password;
 	}

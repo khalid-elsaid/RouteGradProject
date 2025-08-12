@@ -1,0 +1,33 @@
+﻿  bankProject1.cpp
+C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\Person.h(36,14): error C2440: 'return': cannot convert from 'std::string' to 'int'
+  (compiling source file 'bankProject1.cpp')
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\Person.h(36,14):
+      No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  
+C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\bankProject1.cpp(36,9): error C2259: 'Client': cannot instantiate abstract class
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\Client.h(9,7):
+      see declaration of 'Client'
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\bankProject1.cpp(36,9):
+      due to following members:
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\bankProject1.cpp(36,9):
+      'void Person::displayInfo(void)': is abstract
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\Person.h(38,15):
+      see declaration of 'Person::displayInfo'
+  
+C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\bankProject1.cpp(36,21): error C2259: 'Client': cannot instantiate abstract class
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\Client.h(9,7):
+      see declaration of 'Client'
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\bankProject1.cpp(36,21):
+      due to following members:
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\bankProject1.cpp(36,21):
+      'void Person::displayInfo(void)': is abstract
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\Person.h(38,15):
+      see declaration of 'Person::displayInfo'
+  
+  Person.cpp
+C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\Person.h(36,14): error C2440: 'return': cannot convert from 'std::string' to 'int'
+  (compiling source file 'Person.cpp')
+      C:\Users\khali\Desktop\route_project\git_code\RouteGradProject\Person.h(36,14):
+      No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  
+  Generating Code...
