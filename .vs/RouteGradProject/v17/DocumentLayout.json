@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\bankProject1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bankProject1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Validate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Validate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\WelcomeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WelcomeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bankProject1.cpp",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\bankProject1.cpp",
+              "RelativeDocumentMoniker": "bankProject1.cpp",
+              "ToolTip": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\bankProject1.cpp [Read Only]",
+              "RelativeToolTip": "bankProject1.cpp [Read Only]",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAF0AAAANAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T21:33:56.778Z",
+              "IsPinned": true,
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.h",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Admin.h",
+              "RelativeDocumentMoniker": "Admin.h",
+              "ToolTip": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Admin.h [Read Only]",
+              "RelativeToolTip": "Admin.h [Read Only]",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T22:56:49.093Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.h",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Employee.h",
+              "RelativeDocumentMoniker": "Employee.h",
+              "ToolTip": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Employee.h [Read Only]",
+              "RelativeToolTip": "Employee.h [Read Only]",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T22:52:16.96Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.h",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Client.h",
+              "RelativeDocumentMoniker": "Client.h",
+              "ToolTip": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Client.h [Read Only]",
+              "RelativeToolTip": "Client.h [Read Only]",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAcAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T21:34:05.516Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Person.h [Read Only]",
+              "RelativeToolTip": "Person.h [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAcAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T21:34:06.824Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validate.h",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Validate.h",
+              "RelativeDocumentMoniker": "Validate.h",
+              "ToolTip": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\Validate.h [Read Only]",
+              "RelativeToolTip": "Validate.h [Read Only]",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAOAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T21:34:12.838Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WelcomeScreen.h",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\WelcomeScreen.h",
+              "RelativeDocumentMoniker": "WelcomeScreen.h",
+              "ToolTip": "C:\\Users\\youss\\Documents\\GitHub\\RouteGradProject\\WelcomeScreen.h [Read Only]",
+              "RelativeToolTip": "WelcomeScreen.h [Read Only]",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAH4AAAAuAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T22:09:33.139Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

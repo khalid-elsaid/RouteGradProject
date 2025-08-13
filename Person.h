@@ -35,6 +35,6 @@ public:
 	{
 		return this->password;
 	}
-	virtual void displayInfo() = 0;
+	virtual void Display() = 0;
 };
 

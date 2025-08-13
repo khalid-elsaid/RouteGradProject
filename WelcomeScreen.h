@@ -124,9 +124,10 @@ public:
 
     void mainMenu()
     {
-        cout << "Welcome to our Bank";
+        cout << "Welcome to our Bank" << endl;
         cout << "======================================"<< endl;
         cout << "choose from the following menu: " << endl;
+        cout << "This is the first phase, so all options result in unit tests." << endl;
         cout << "1- test 1 " << endl;
         cout << "2- test 2 "<<endl;
         cout << "3- test 3 " << endl;

@@ -6,7 +6,7 @@ using namespace std;
 #include <string>
 
 #pragma once
-class Client : Person
+class Client : public Person
 {
 protected:
 	double balance;
@@ -25,17 +25,17 @@ public:
 		if (Validation::isname(newName)) {
 			this->name = newName;
 		}
-		else {
-			cout << "Invalid name! Name must be alphabetic, 5-20 characters.\n";
-		}
 	}
 
-	bool setPassword(string  password) {
+	void setPassword(string  password) {
 		if (Validation::ispassword(password)) {
 			this ->password = password;
 		}
-		else {
-			cout << "Invalid password! Password must be 8-20 characters.\n";
+	}
+
+	void setbalance(double balance) {
+		if (Validation::isbalance(balance)) {
+			this->balance = balance;
 		}
 	}
 
@@ -77,10 +77,13 @@ public:
 	}
 
 	void Display() {
+		cout << "\n- - - - - - - - - -\n";
 		cout << "Display Client Info : " << endl;
-		cout << "Client ID " << id << endl;
-		cout << "Name: " << name<< endl;
-		cout << "Balance: " << balance << endl;
+		cout << "ID: " << this->id << endl;
+		cout << "Name: " << this->name << endl;
+		cout << "Password: " << this->password << endl;
+		cout << "Balance: " << this->balance << endl;
+		cout << "- - - - - - - - - -\n";
 	}
 };
 
